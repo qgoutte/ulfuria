@@ -26,24 +26,34 @@ include 'header.html';
 				</header>
 				<p>Notre staff est composé de 6 membres :
 				<ul>
-					<li>2 Administrateurs</li>
-					<li>3 Modérateurs</li>
+					<li>3 Administrateurs</li>
+					<li>2 Modérateurs</li>
 					<li>1 Dessinatrice</li>
 				</ul>
 				</p>
 
 				<h2>Les administateurs</h2>
+                                <h3>G-Smasher</h3>
+				<h6>Administrateur, Organisateur d'évènements</h6>
+				<p>Fraichement promu, G-Smasher s'occupe principalement de organisation d'évenements avec ZaWiD, mais aussi de la modération du Discord.</p>
+				<p>Ses réseaux sociaux :
+					<ul>
+						<li><a href="https://twitter.com/guillaumelgnnc" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@guillaumelgnnc</b></a></li>
+					</ul>
+				</p>
+
 				<h3>Kyristepiu</h3>
 				<h6>Administrateur, Community manager, Développeur, Gestionnaire, Trésorier</h6>
-				<p>Etudiant en école d'ingénieur spécialité Systèmes d'information, et en alternance, Kyristepiu est un des fondateurs d'Ulfuria avec ZaWiD. Il s'occupe principalement du développement d'application mais aussi des réseaux sociaux et de la trésorerie de la communauté.</p>
+				<p>Etudiant en école d'ingénieur spécialité systèmes d'informations en alternance, Kyristepiu est un des fondateurs d'Ulfuria avec ZaWiD. Il s'occupe principalement du développement d'application mais aussi des réseaux sociaux et de la trésorerie de la communauté.</p>
 				<p>Ses réseaux sociaux :
 					<ul>
 						<li><a href="https://twitter.com/Kyristepiu" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@Kyristepiu</b></a></li>
 					</ul>
 				</p>
+                                
 				<h3>ZaWiD</h3>
-				<h6>Administrateur, Community manager, Gestionnaire, Organisateur d'évènements</h6>
-				<p>Fondateur d'Ulfuria avec Kyristepiu, il gère principalement le discord, les evenements et les réseaux sociaux de la communauté.</p>
+				<h6>Administrateur, Gestionnaire, Organisateur d'évènements</h6>
+				<p>Fondateur d'Ulfuria avec Kyristepiu, il gère principalement le discord et les evenements de la communauté.</p>
 				<p>Ses réseaux sociaux :
 					<ul>
 						<li><a href="https://twitter.com/ZaWiD75" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@ZaWiD75</b></a></li>
@@ -52,27 +62,20 @@ include 'header.html';
 				</p>
 
 				<h2>Les modérateurs</h2>
-				<h3>G-Smasher</h3>
-				<h6>Modérateur, Community manager, Organisateur d'évènements</h6>
-				<p>G-Smasher est modérateur, organisateur d'évenements avec ZaWiD, mais aussi le community manager principal de la communauté.</p>
-				<p>Ses réseaux sociaux :
-					<ul>
-						<li><a href="https://twitter.com/guillaumelgnnc" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@guillaumelgnnc</b></a></li>
-					</ul>
-				</p>
-				<h3>Patou</h3>
-				<h6>Modérateur, Administrateur système</h6>
-				<p>Patou est à la fois modérateur, mais aussi administateur de nos différents serveurs (web et jeux).</p>
 				
-				<h3>ProBugger</h3>
+                                <h3>Levistross</h3>
 				<h6>Modérateur</h6>
-				<p>Dernier modérateur en date, ProBugger s'occupe pour le moment uniquement de la modération du Discord.</p>
+				<p>Dernier modérateur en date, Levistross s'occupe pour le moment uniquement de la modération du Discord.</p>
 				<p>Ses réseaux sociaux :
 					<ul>
 						<li><a href="https://twitter.com/Pro_Bugger" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@Pro_Bugger</b></a></li>
 					</ul>
 				</p>
-			
+                                
+				<h3>Patou</h3>
+				<h6>Modérateur, Administrateur système</h6>
+				<p>Patou est à la fois modérateur, mais aussi administateur de nos différents serveurs (web et jeux).</p>
+                                
 				<h2>La dessinatrice</h2>
 				<h3>Loustica</h3>
 				<h6>Dessinatrice officielle d'Uka</h6>
@@ -90,7 +93,7 @@ include 'header.html';
 			<aside class="col-sm-3 sidebar sidebar-right">
 
 				<div class="widget">
-					<img src="assets/images/ukasleep.png" alt="Uka arbitre" class="img-rounded pull-right" height="250" >
+					<img src="assets/images/ukarbitre.png" alt="Uka arbitre" class="img-rounded pull-right" height="350" >
 				</div>
 
 			</aside>
