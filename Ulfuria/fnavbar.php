@@ -6,7 +6,7 @@
 								<a href="event.php">Nos evenements</a> |
 								<a href="teams.php">Nos serveurs</a> |
 								<a href="staff.php">Staff</a> |
-								<a href="teams.php">Equipes E-sport</a> |
+                                                                <a href="/esport/">Section E-sport</a> |
 								<a href="contact.html">Contact</a>
 								<!--<b><a href="signup.html">Sign up</a></b>-->
 							</p>
