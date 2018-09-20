@@ -22,67 +22,41 @@ include 'header.html';
 			<!-- Article main content -->
 			<article class="col-md-9 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">Le staff d'Ulfuria</h1>
+					<h1 class="page-title">Nos évenements</h1>
 				</header>
-				<p>Notre staff est composé de 6 membres :
+				<p>Pour vous divertir, Ulfuria mets en place differents types d'évenements :
 				<ul>
-					<li>2 Administrateurs</li>
-					<li>3 Modérateurs</li>
-					<li>1 Dessinatrice</li>
+					<li>Des tournois</li>
+					<li>Des lives twitch</li>
+					<li>Des projets</li>
 				</ul>
 				</p>
 
-				<h2>Les administateurs</h2>
-				<h3>Kyristepiu</h3>
-				<h6>Administrateur, Community manager, Développeur, Gestionnaire, Trésorier</h6>
-				<p>Etudiant en école d'ingénieur spécialité Systèmes d'information, et en alternance, Kyristepiu est un des fondateurs d'Ulfuria avec ZaWiD. Il s'occupe principalement du développement d'application mais aussi des réseaux sociaux et de la trésorerie de la communauté.</p>
-				<p>Ses réseaux sociaux :
-					<ul>
-						<li><a href="https://twitter.com/Kyristepiu" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@Kyristepiu</b></a></li>
-					</ul>
-				</p>
-				<h3>ZaWiD</h3>
-				<h6>Administrateur, Community manager, Gestionnaire, Organisateur d'évènements</h6>
-				<p>Fondateur d'Ulfuria avec Kyristepiu, il gère principalement le discord, les évènements et les réseaux sociaux de la communauté.</p>
-				<p>Ses réseaux sociaux :
-					<ul>
-						<li><a href="https://twitter.com/ZaWiD75" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@ZaWiD75</b></a></li>
-						<li><a href="https://www.twitch.tv/zawid75" onclick="window.open(this.href); return false;"><i class="fab fa-twitch"></i> <b>@zawid75</b></a></li>
-					</ul>
-				</p>
+				<h3>Les tournois</h3>
+				<p>Ulfuria organise régulièrement des tournois sur différents jeux comme Rocket League, Brawlhalla, Trackmania, etc...
+                                Ces tournois vous permettent :
+                                <ul>
+					<li>De gagner un jeu d'une valeur equivalente au cashprize ou un virement paypal du cashprize</li>
+					<li>De gagner des points au classement de la saison </li>
+				</ul>
+                                </p>
+                                
+				<h3>Les lives</h3>
+				<p>Nous disposons aussi d'une chaine twitch, mais nous sommes actuellement à la recherche de streamer réguliers. Si vous souhaitez vous lancez dans l'aventure n'hesitez pas a contacter le @staff</p>
 
-				<h2>Les modérateurs</h2>
-				<h3>G-Smasher</h3>
-				<h6>Modérateur, Community manager, Organisateur d'évènements</h6>
-				<p>G-Smasher est modérateur, organisateur d'évenements avec ZaWiD, mais aussi le community manager principal de la communauté.</p>
-				<p>Ses réseaux sociaux :
-					<ul>
-						<li><a href="https://twitter.com/guillaumelgnnc" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@guillaumelgnnc</b></a></li>
-					</ul>
-				</p>
-				<h3>Patou</h3>
-				<h6>Modérateur, Administrateur système</h6>
-				<p>Patou est à la fois modérateur, mais aussi administateur de nos différents serveurs (web et jeux).</p>
-				
-				<h3>ProBugger</h3>
-				<h6>Modérateur</h6>
-				<p>Dernier modérateur en date, ProBugger s'occupe pour le moment uniquement de la modération du Discord.</p>
-				<p>Ses réseaux sociaux :
-					<ul>
-						<li><a href="https://twitter.com/Pro_Bugger" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@Pro_Bugger</b></a></li>
-					</ul>
-				</p>
-			
-				<h2>La dessinatrice</h2>
-				<h3>Loustica</h3>
-				<h6>Dessinatrice officielle d'Uka</h6>
-				<p>Future étudiante en dessin et animation, elle est désormais la dessinatrice officielle d'Ulfuria grâce à ses nombreuses réalisations pour la communauté (Logo, Uka, Bob, Affiches d'évènements...)</p>
-				<p>Ses réseaux sociaux :
-					<ul>
-						<li><a href="https://twitter.com/Loustica_Lucia" onclick="window.open(this.href); return false;"><i class="fab fa-twitter"></i> <b>@Loustica_Lucia</b></a></li>
-						<li><a href="https://loustica.deviantart.com" onclick="window.open(this.href); return false;"><i class="fab fa-deviantart"></i> <b>@loustica</b></a>
-					</ul>
-				</p>
+				<h3>Les projets</h3>
+                                <p>L'ensemble de la communauté dispose de nombreux projets, qu'ils soient vidéoludiques, liés au développement d'applications ou d'outils pour Ulfuria, ou encore pour animer le Discord. <br>
+                                Voici la liste des projets actuellement en cours, si vous souhaitez vous joindre à un projet, merci de contacter sur Discord le chef de projet indiqué : 
+                                <ul>
+					<li>Développement du site web - @Kyristepiu</li>
+					<li>Ulfuria Mag - @Loustica</li>
+				</ul>
+                                </p>
+
+				<h3>Lancez un projet !</h3>	
+                                <h6>Canal #idees-projets</h6>  
+                                <p>Vous ne vous sentez atirer par aucun projet ? Prennez votre chance et lancer votre idée de projet et vous pourrez peut-être obtenir le grade de <strong>Chef de projet</strong> si celui-ci est approuvé
+                                par le staff. Par cette oportunité, Ulfuria vous permet de recruter, et réaliser plus facilement votre projet grace à l'ensemble des membres de la communauté. Alors n'hésitez plus, et montrez votre talent à Uka.</p>
 			</article>
 			<!-- /Article -->
 
@@ -90,7 +64,7 @@ include 'header.html';
 			<aside class="col-sm-3 sidebar sidebar-right">
 
 				<div class="widget">
-					<img src="assets/images/ukasleep.png" alt="Uka arbitre" class="img-rounded pull-right" height="250" >
+					<img src="assets/images/ukasleep.png" alt="Uka event" class="img-rounded pull-right" height="250" >
 				</div>
 
 			</aside>
