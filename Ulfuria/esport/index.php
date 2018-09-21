@@ -24,7 +24,6 @@ include 'menu.html';
 			<div class="row">
 				<h1 class="lead">Ulfuria - Le site esport de la communauté</h1>
 				<p class="tagline">DEV IN PROGRESS</p>
-				<p>WOLOLOOOOO</p>
 			</div>
 		</div>
 	</header>

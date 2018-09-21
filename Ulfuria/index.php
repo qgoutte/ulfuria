@@ -24,9 +24,8 @@ include 'menu.html';
 			<div class="row">
 				<h1 class="lead">Ulfuria - Le site de la communauté</h1>
 				<p class="tagline">DEV IN PROGRESS</p>
-				<p>WOLOLOOOOO</p>
 			</div>
-		</div>
+		</div>  
 	</header>
 	<!-- /Header -->
 
