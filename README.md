@@ -4,7 +4,7 @@ This project contains all files for Ulfuria website and Ulfuria Esport website
 
 ## Contributing
 
-Loustica - Drawing & Graphism
+* **Loustica** (https://www.deviantart.com/loustica) - Drawing & Graphism
 
 ## Authors
 
